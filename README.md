@@ -23,6 +23,6 @@ Input Nama, Nim, Nilai Tugas, UAS, UTS Dan program akan menghitung Nilai Akhir d
 ![Gambar](Foto/FlowChart.png)
 #### Berikut Bentuk Programnya
 ![Gambar](Foto/ss3.png)
-![Gambar](Foto/ss4.png)
+![Gambar](Foto/ss6.png)
 #### Berikut Bentuk Hasil dari Program
-![Gambar](Foto/ss5.png)
+![Gambar](Foto/ss7.png)
