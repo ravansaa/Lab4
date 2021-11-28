@@ -4,9 +4,10 @@
 ### Fungsi Fungsi Command di List
 #### Ini adalah bentuk fungsi-fungsi dari list
 #### Berikut bentuk code seperti di gambar
+
+![Gambar](Foto/ss.png)
 ##### Menggunakan kode .append fungsinya untuk menambahkan satu item ke elemen terakhir
 ##### Menggunakan kode .extend fungsinya untuk menambahkan beberapa item ke elemen terakhir
-![Gambar](Foto/ss.png)
 ![Gambar](Foto/ss1.png)
 
 #### Berikut hasil output dari program
