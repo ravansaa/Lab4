@@ -22,7 +22,7 @@ Input Nama, Nim, Nilai Tugas, UAS, UTS Dan program akan menghitung Nilai Akhir d
 #### Berikut Bentuk Flowchartnya
 ![Gambar](Foto/FlowChart.png)
 #### Berikut Bentuk Programnya dan ada beberapa keterangan di program
-![Gambar](Foto/ss6.png)
-![Gambar](Foto/ss7.png)
+![Gambar](Foto/ss3.png)
+![Gambar](Foto/ss4.png)
 #### Berikut Bentuk Hasil dari Program
 ![Gambar](Foto/ss5.png)
