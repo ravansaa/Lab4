@@ -16,7 +16,7 @@
 ## Tugas Praktikum 4
 ### Program Input Data mahasiswa
 ### Penjelasan Program
-Program ini adalah proses menginput data mahasiswa menggunakan fungsi List di program dan menghitung nilai akhirnya dan menggunakan fungsi pengulangan y/t(Ya dan Tidak) lebih lagi bisa di liat di keterangan di dalam program
+Program ini adalah proses menginput data mahasiswa menggunakan fungsi List di program dan menghitung nilai akhirnya dan menggunakan fungsi pengulangan y/t(Ya dan Tidak), lebih lagi bisa di liat di keterangan dalam program
 #### Cara kerja program
 Input Nama, Nim, Nilai Tugas, UAS, UTS Dan program akan menghitung Nilai Akhir dan memunculkan bentuk List
 #### Berikut Bentuk Flowchartnya
